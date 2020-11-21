@@ -1,0 +1,19 @@
+.navbar-brand{
+  
+    color:white !important;
+}
+.h3{
+    text-align: center;
+}
+.nav-item{
+    text-align: center !important;
+}
+.nav-link:hover {
+    background-color: sienna;
+}
+.end{
+    background-color: black !important;
+    text-align: center;
+    padding:4em;
+
+}
